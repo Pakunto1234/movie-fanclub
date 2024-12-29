@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: thomora.app.movief.MovieFanclubApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.29 s -- in thomora.app.movief.MovieFanclubApplicationTests
